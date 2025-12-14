@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Renne-Batista-O
 - 👀 I'm mainly interested in programming and mathematics.
-- 📘 I'm currently learning JavaScript, Typescript and Rust.
+- 📘 I'm currently learning JavaScript, Typescript and Java.
 - 😄 Pronouns: He/Him.
 - 🌎 I'm Brazilian (and I speak Portuguese).
